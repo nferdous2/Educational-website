@@ -1,0 +1,51 @@
+[
+    {
+        "key": "1a",
+        "subject": "Math & Satistics",
+        "description": "Get a precise, well-argued solution to any problem. We're just as good with numbers as we are with words.Solvw some maths",
+        "project": "17k",
+        "image": "https://cdn-icons-png.flaticon.com/512/746/746960.png"
+    },
+    {
+        "key": "2b",
+        "subject": "Humanities",
+        "description": "From history and economics to sociology and law, you can expect thoroughly researched papers on any subject.",
+        "project": "20k",
+        "image": "https://media.istockphoto.com/vectors/simple-tile-with-text-humanities-with-linear-and-thin-icons-graphics-vector-id840895982?s=612x612"
+    },
+    {
+        "key": "3c",
+        "subject": "Science",
+        "description": "Our people hold master's and PhD degrees in physics, chemistry, biology, earth science, and anything in-between.",
+        "project": "25k",
+        "image": "https://image.freepik.com/free-vector/science-icon-collection_23-2147504869.jpg"
+    },
+    {
+        "key": "4d",
+        "subject": "Language Arts",
+        "description": "We combine strong academic expertise with limitless creativity to make your essays, book reviews and art projects shine.",
+        "project": "10k",
+        "image": "https://myhomeworkdone.com/theme/0.loc/img/ico/lang.svg"
+    },
+    {
+        "key": "5e",
+        "subject": "Programming",
+        "description": "Computer science is one of the most important fields of study today. While the professional advantages of learning and mastering computer science are substantial, one has to work harder while studying it",
+        "project": "30k",
+        "image": "https://cdn.dribbble.com/users/5485/screenshots/2187027/media/a0c0ec8e5b9d4922b5cd56d6b39a2879.png"
+    },
+    {
+        "key": "6f",
+        "subject": "Sociology",
+        "description": "Sociology assignments can be very challenging. In this field, all the new theories about society and its members are based upon theories that have evolved since the early 1900s.",
+        "project": "15k",
+        "image": "https://cdn-icons-png.flaticon.com/512/1651/1651656.png"
+    },
+    {
+        "key": "7g",
+        "subject": "Astronomy",
+        "description": "Astronomy is by far one of the most interesting academic subjects. From studying the planets in the solar system to discovering just how extensive our knowledge about the big bang currently is",
+        "project": "21k",
+        "image": "https://icon-library.com/images/astronomy-icon/astronomy-icon-9.jpg"
+    }
+]

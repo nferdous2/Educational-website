@@ -1,0 +1,23 @@
+[
+    {
+        "key": "1a",
+        "subject": "Math & Satistics",
+        "description": "Get a precise, well-argued solution to any problem. We're just as good with numbers as we are with words.Solve some maths",
+        "project": "17k",
+        "image": "https://cdn-icons-png.flaticon.com/512/746/746960.png"
+    },
+    {
+        "key": "2b",
+        "subject": "Humanities",
+        "description": "From history and economics to sociology and law, you can expect thoroughly researched papers on any subject.",
+        "project": "20k",
+        "image": "https://media.istockphoto.com/vectors/simple-tile-with-text-humanities-with-linear-and-thin-icons-graphics-vector-id840895982?s=612x612"
+    },
+    {
+        "key": "3c",
+        "subject": "Science",
+        "description": "Our people hold master's and PhD degrees in physics, chemistry, biology, earth science, and anything in-between.",
+        "project": "25k",
+        "image": "https://image.freepik.com/free-vector/science-icon-collection_23-2147504869.jpg"
+    }
+]

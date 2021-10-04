@@ -1,0 +1,11 @@
+.about-container{
+    border-bottom: 2px solid rgb(85, 87, 87);
+    padding: 15px;
+    background-color: rgb(2, 15, 17);
+    color: white;
+}
+.tags{
+    font-weight: 800;
+    color: rgb(133, 21, 58);
+    text-align: center;
+}

@@ -1,0 +1,28 @@
+.footer{
+    background-color: rgb(20, 20, 20);
+}
+.icons{
+    margin: 5px;
+    padding: 5px;
+    background-color: rgb(63, 5, 37);
+    /* border-radius: 5px; */
+    color: rgb(247, 242, 242);
+    font-size: 30px;
+}
+.icons-container{
+    justify-content: center;
+}
+.icons:hover{
+    background-color: white;
+    color:rgb(97, 11, 39)
+}
+.footer-menu{
+    list-style: none;
+    margin-top: 25px;
+}
+.footer-menu:hover{
+    color: palevioletred;
+}
+.phone{
+    justify-content: center;
+}

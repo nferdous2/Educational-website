@@ -1,0 +1,10 @@
+.service-style{margin: 10px;
+    padding: 10px;
+    border: 2px solid pink;
+    
+}
+.tags{
+    font-weight: 800;
+    color: rgb(133, 21, 58);
+    text-align: center;
+}
