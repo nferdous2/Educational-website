@@ -9,6 +9,8 @@ import Services from './Components/Services/Services';
 import NotFound from './Components/NotFound/NotFound'
 import Pricing from './Components/Pricing/Pricing';
 import { createContext, useState } from 'react';
+import Menubar from './Components/Menubar/Menubar';
+import Footer from './Components/Footer/Footer';
 export const userContext = createContext();
 function App() {
   const [user, setUser] = useState({
@@ -18,6 +20,7 @@ function App() {
     <div className="App">
       <userContext.Provider value={[user, setUser]}>
         <Router>
+          <Menubar />
           <Switch>
             <Route exact path="/">
               <Home></Home>
@@ -28,7 +31,6 @@ function App() {
             <Route path="/services">
               <Services></Services>
             </Route>
-
             <Route path="/pricing">
               <Pricing />
             </Route>
@@ -37,6 +39,7 @@ function App() {
             </Route>
           </Switch>
         </Router>
+        <Footer />
       </userContext.Provider>
     </div >
 

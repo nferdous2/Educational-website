@@ -2,8 +2,6 @@
 import React from 'react';
 import { useEffect } from 'react';
 import { useState } from 'react';
-import Footer from '../Footer/Footer';
-import Menubar from '../Menubar/Menubar';
 import './Service.css'
 const Service = () => {
     const [service, setService] = useState([])
@@ -14,7 +12,6 @@ const Service = () => {
     }, [])
     return (
         <div>
-            <Menubar />
             <div className="container">
                 <div className="services">
                     <div className="row">
@@ -37,7 +34,6 @@ const Service = () => {
                     </div>
                 </div>
             </div>
-            <Footer></Footer>
         </div>
 
     );

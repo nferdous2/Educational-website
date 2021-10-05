@@ -1,12 +1,9 @@
 import React from 'react';
 import { Col, Container, Row } from 'react-bootstrap';
-import Footer from '../Footer/Footer';
-import Menubar from '../Menubar/Menubar';
 import './Pricing.css';
 const Pricing = () => {
     return (
         <div>
-            <Menubar />
             <Container>
                 <h1 className="tags">Our Subjects Cost</h1>
                 <Row className="pricing-details mb-5 mt-3">
@@ -17,7 +14,6 @@ const Pricing = () => {
                             Tests, experiments and surveys
                             Thorough review of sources
                             Cohesive argumentation <h1>$175</h1>
-
                         </p>
                         <button className="button">Try Now</button>
                     </Col>
@@ -40,7 +36,7 @@ const Pricing = () => {
                     </Col>
                 </Row>
             </Container>
-            <Footer></Footer>
+
         </div>
     );
 };
