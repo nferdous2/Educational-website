@@ -1,5 +1,5 @@
 #  Project name: Do Your Assignments 
-## live Website link(https://edu-review.netlify.app/)
+## live Website link(https://elastic-thompson-a77c3b.netlify.app/)
 
 ## project style
 This project was styled by plain css and bootstrap.And Here we used React-Router-dom.
