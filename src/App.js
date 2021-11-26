@@ -11,6 +11,7 @@ import Pricing from './Components/Pricing/Pricing';
 import { createContext, useState } from 'react';
 import Menubar from './Components/Menubar/Menubar';
 import Footer from './Components/Footer/Footer';
+import About from './Components/About/About';
 export const userContext = createContext();
 function App() {
   const [user, setUser] = useState({
@@ -27,6 +28,9 @@ function App() {
             </Route>
             <Route path="/home">
               <Home></Home>
+            </Route>
+            <Route path="/about">
+              <About />
             </Route>
             <Route path="/services">
               <Services></Services>
